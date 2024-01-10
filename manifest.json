@@ -1,0 +1,34 @@
+{
+    "Lang": "fr",
+    "theme_color": "#704422",
+    "background_color": "#704422",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "index.html",
+    "name": "TDL",
+    "short_name": "TDL",
+    "description": "La To Do list en PWA dont tu as besoin",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+            
+        },
+        {
+            "src": "icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"            
+        }
+    ]
+}

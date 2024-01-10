@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    background-color: grey;
+    margin: 0;
+    width: 200vw;
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/13302159/pexels-photo-13302159.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+::-webkit-scrollbar {
+    display: none; /* Masquer la scrollbar sur Chrome, Safari et Opera */
+}
+
+.page {
+    background-color: rgb(190, 181, 174, 0.5);
+    height: 530px;
+    width: 400px;
+    border-radius: 45px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.page img {
+    width: 400px;
+    height: auto;
+}
+
+.page p {
+    color: white;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 1.5rem;
+}
